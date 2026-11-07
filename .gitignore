@@ -1,0 +1,11 @@
+node_modules
+
+# Lozinke i kljucevi - NIKAD na GitHub
+.env
+.env.*
+!.env.example
+
+*.log
+.DS_Store
+.vscode/*
+.idea
